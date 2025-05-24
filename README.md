@@ -1,3 +1,6 @@
+## Nft Recent Deployed Contract:
+https://sepolia.etherscan.io/address/0x0ebd3be72de7e6ccddad250ac3567d6fcea28247
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
